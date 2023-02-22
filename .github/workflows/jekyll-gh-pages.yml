@@ -20,6 +20,10 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+theme: jekyll-theme-minimal
+title: gitworkflow homepage
+description: Bookmark this to keep an eye on my project updates!
+
 jobs:
   # Build job
   build:
