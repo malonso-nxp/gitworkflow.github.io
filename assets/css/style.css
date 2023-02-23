@@ -1,1 +1,9 @@
-# Style CSS file to project
+/* Style CSS file to project */
+
+
+body {
+     background-image: url('{{ site.baseurl }}/assets/img/hero-bg.webp');
+     /* background-repeat: no-repeat; */
+     /* background-attachment: fixed; */
+     /* background-size: cover; */
+}
