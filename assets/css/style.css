@@ -1,6 +1,9 @@
-/* Style CSS file to project */
+---
+---
 
+@import "{{ site.theme }}";
 
+/* Personalize background */
 body {
      background-image: url('{{ site.baseurl }}/assets/img/hero-bg.webp');
      /* background-repeat: no-repeat; */
